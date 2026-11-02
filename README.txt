@@ -4,7 +4,7 @@ Tema Alat Tulis Kantor segar hijau, putih, dan biru.
 # Aplikasi Kasir Alat Tulis Kantor Web
 
 Paket ini berisi satu aplikasi kasir web dengan tema berbeda:
-2. Imelda Store — hijau segar untuk Alat Tulis Kantor
+1. Imelda Store — hijau segar untuk Alat Tulis Kantor
 
 
 ## Cara menjalankan di XAMPP (Windows)	
