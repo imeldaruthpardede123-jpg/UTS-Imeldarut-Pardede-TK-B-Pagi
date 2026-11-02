@@ -1,9 +1,9 @@
 Imelda Store
 Tema Alat Tulis Kantor segar hijau, putih, dan biru.
 
-# Paket 3 Aplikasi Kasir Web
+# Aplikasi Kasir Alat Tulis Kantor Web
 
-Paket ini berisi tiga aplikasi kasir web dengan tema berbeda:
+Paket ini berisi satu aplikasi kasir web dengan tema berbeda:
 2. Imelda Store — hijau segar untuk Alat Tulis Kantor
 
 
@@ -32,7 +32,7 @@ Paket ini berisi tiga aplikasi kasir web dengan tema berbeda:
 - Layout responsif untuk desktop dan layar HP
 
 ## Catatan
-- Ketiga aplikasi memakai database MySQL yang sama (`kasir_web_suite`), sehingga data produk dan transaksi akan terlihat sama di ketiganya. Tema dan nama aplikasinya berbeda.
+- aplikasi memakai database MySQL yang sama (`kasir_web_suite`), sehingga data produk dan transaksi akan terlihat sama. Tema dan nama aplikasinya berbeda.
 - Jika ingin data tiap aplikasi benar-benar terpisah, ubah `DB_NAME` pada `config.php` menjadi nama database yang berbeda untuk setiap folder.
 - Untuk penggunaan nyata, ganti password demo, gunakan HTTPS, dan tambahkan pengelolaan pengguna/otorisasi sebelum dipublikasikan ke internet.
 - Google Fonts membutuhkan koneksi internet untuk font tambahan; aplikasi tetap berjalan tanpa koneksi, menggunakan font fallback.
